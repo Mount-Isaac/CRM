@@ -1,4 +1,5 @@
 <b>Project Documentation produced by ChatGPT</b>
+</br>
 <u>GUI Features</u>
 1.	Dashboard: The dashboard is usually the first screen users see when they log in. It provides a high-level overview of key metrics, such as the number of leads, opportunities, and sales. Users can customize the dashboard to display the metrics that are most important to them.
 2.	Contact Management: This component provides a way to manage customer data, such as contact information, communication history, and notes. Users can view, add, edit, and delete contacts, as well as search and filter contacts based on various criteria.
