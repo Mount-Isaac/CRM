@@ -1,6 +1,6 @@
-<b>Project Documentation produced by ChatGPT</b>
+<center><h1>Project Documentation produced by ChatGPT</h1></center>
 </br>
-<u>GUI Features</u>
+<u><b>GUI Features</b></u>
 1.	Dashboard: The dashboard is usually the first screen users see when they log in. It provides a high-level overview of key metrics, such as the number of leads, opportunities, and sales. Users can customize the dashboard to display the metrics that are most important to them.
 2.	Contact Management: This component provides a way to manage customer data, such as contact information, communication history, and notes. Users can view, add, edit, and delete contacts, as well as search and filter contacts based on various criteria.
 3.	Lead Management: This component provides a way to manage leads, such as tracking lead sources, lead status, and lead scores. Users can view, add, edit, and delete leads, as well as search and filter leads based on various criteria.
@@ -9,7 +9,7 @@
 6.	Customer Service: This component provides a way to manage customer support activities, such as tracking support tickets, customer complaints, and customer feedback. Users can view, add, edit, and delete support tickets, as well as assign tickets to team members and track the status of tickets.
 7.	Reports: This component provides a way to generate reports based on customer data, such as sales reports, lead reports, and customer support reports. Users can customize reports based on various criteria, such as date range, product category, and customer segment.
 
-<u>Database Features</u>
+<u><b>Database Features</b></u>
 
 1.	Customers table: This table stores information about each customer, such as their name, contact information, and demographic data. It may also store information about the customer's purchase history, preferences, and communication history.
 2.	Leads table: This table stores information about potential customers who have shown interest in the company's products or services, such as their contact information and the source of the lead.
