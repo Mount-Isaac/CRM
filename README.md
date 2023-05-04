@@ -1,4 +1,4 @@
-<center><h1>Project Documentation produced by ChatGPT</h1></center>
+<center><h1>Project Documentation by &copyIsaac</h1></center>
 <u><b>GUI Features</b></u>
 </br>
 
